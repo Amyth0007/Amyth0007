@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN Stack and Cloud Computing**
 
-- 🎥 I create coding tutorial videos on YoutTube at [https://youtube.com/c/AnoNymOuS-mg9oj](https://youtube.com/c/AnoNymOuS-mg9oj)
+- 🎥 I create coding tutorial videos on YoutTube at [[https://youtube.com/c/AnoNymOuS-mg9oj](https://www.youtube.com/@AnoNymOuS-mg9oj)](https://youtube.com/c/AnoNymOuS-mg9oj)
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
